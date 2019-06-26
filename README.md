@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/wl7U8ibchZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/brianadouglas/SimpleTodo/raw/master/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
